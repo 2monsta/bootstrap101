@@ -47,4 +47,6 @@
 }
 .footer{
 	margin-left: 14px;
+	position: absolute;
+	bottom: 0;
 }
