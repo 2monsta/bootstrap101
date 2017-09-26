@@ -30,7 +30,7 @@
 	margin-top: 5px;
 }
 .more-videos-words{
-	padding-left: 15px;
+	/* padding-left: 15px; */
 	padding-top: 2px;
 }
 .more-images{
@@ -42,11 +42,6 @@
 	font-weight: bold;
 	margin-bottom: 14px;
 }
-.container{
-	height: 100vh
-}
-.footer{
-	margin-left: 14px;
-	position: absolute;
-	bottom: 0;
+.no-padding{
+	padding: 0;
 }
