@@ -1,0 +1,17 @@
+.logo-word{
+	margin-top: 20px;
+	margin-left: 50px;
+	font-weight: bold;
+}
+.search-bar{
+	margin-top: 25px;
+}
+.videos, .channels{
+	border-left: 1px solid black;
+}
+.log-in{
+	padding-top: 25px;
+}
+.subs{
+	padding-top: 25px;
+}
