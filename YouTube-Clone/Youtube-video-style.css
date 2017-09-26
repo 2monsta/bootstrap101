@@ -24,4 +24,33 @@
 	font-weight: bold;
 	font-size: 1em;
 	margin-top: 15px;
+	padding-left: 15px;
+}
+.user_one{
+	margin-top: 15px;
+}
+.user_one_id, .user_two_id{
+	font-weight: bold;
+	margin-left: 15px;
+}
+.user_one_comment, .user_two_comment{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	word-wrap: break-word;
+	margin-left: 15px;
+
+}
+.profile-word{
+	margin-left: 30px;
+
+}
+.profile-pic{
+	height: 115px;
+	overflow: hidden;
+}
+
+.profile-word > span{
+	font-weight: bold;
+	font-size: 25px;
+	color: blue;
 }
