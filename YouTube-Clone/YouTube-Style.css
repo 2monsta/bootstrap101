@@ -16,12 +16,15 @@
 	padding-top: 25px;
 }
 .featured-word{
-	margin-left: 14px;
+	margin-left: 0;
 	font-weight: bold;
 	font-size: 1.5em;
 }
 .thumbnail{
 	border: none;
+}
+.i-image{
+	padding: 0;
 }
 .more-videos{
 	margin-top: 5px;
@@ -37,4 +40,11 @@
 	margin-left: 14px;
 	font-size: 1.5em;
 	font-weight: bold;
+	margin-bottom: 14px;
+}
+.container{
+	height: 100vh
+}
+.footer{
+	margin-left: 14px;
 }
