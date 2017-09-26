@@ -15,3 +15,26 @@
 .subs{
 	padding-top: 25px;
 }
+.featured-word{
+	margin-left: 14px;
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.thumbnail{
+	border: none;
+}
+.more-videos{
+	margin-top: 5px;
+}
+.more-videos-words{
+	padding-left: 15px;
+	padding-top: 2px;
+}
+.more-images{
+	width: 100%;
+}
+.words{
+	margin-left: 14px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
