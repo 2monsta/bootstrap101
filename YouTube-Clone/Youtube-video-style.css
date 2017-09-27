@@ -42,15 +42,22 @@
 }
 .profile-word{
 	margin-left: 30px;
+	margin-bottom: 7px;
 
 }
 .profile-pic{
 	height: 115px;
-	overflow: hidden;
 }
-
 .profile-word > span{
 	font-weight: bold;
 	font-size: 25px;
 	color: blue;
+
+}
+.profile-page{
+	margin-bottom: 5px;
+}
+.subscribe{
+	margin-top: 30px;
+	margin-left: 5px;
 }
