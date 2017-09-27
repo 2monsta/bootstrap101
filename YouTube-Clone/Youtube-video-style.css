@@ -40,6 +40,9 @@
 	margin-left: 15px;
 
 }
+.right-side-menu-top{
+	border: 1px solid black;
+}
 .profile-word{
 	margin-left: 30px;
 	margin-bottom: 7px;
@@ -60,4 +63,14 @@
 .subscribe{
 	margin-top: 30px;
 	margin-left: 5px;
+}
+.related-videos{
+	font-weight: bold;
+	font-size: 20px;
+	padding-left: 0;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.right-side-menu-bottom{
+	margin-bottom: 20px;
 }
